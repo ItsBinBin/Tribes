@@ -1,3 +1,8 @@
+---
+layout: default
+title: Parzival Privacy Policy
+---
+
 # Parzival Privacy Policy
 
 ## Purpose and account owner
